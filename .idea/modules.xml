@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CircleProgressBar.iml" filepath="$PROJECT_DIR$/CircleProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CircleProgressBar-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CircleProgressBar-app.iml" group="CircleProgressBar/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.emredavarci-CircleProgressBar.iml" filepath="$PROJECT_DIR$/.idea/modules/com.emredavarci-CircleProgressBar.iml" group="CircleProgressBar" />
     </modules>
   </component>
 </project>
